@@ -1,0 +1,8 @@
+# Ignore some Cake conf files
+app/Config/database.php
+
+# The temp directory need not be included
+app/tmp
+
+# Now for OS-specific junk
+.DS_Store
